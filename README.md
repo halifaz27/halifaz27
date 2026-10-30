@@ -1,6 +1,6 @@
 # Hey, I'm Halief Azis Setiawan (Dimas) 👋
 
-### Junior Front-End Developer | React · JavaScript · TypeScript
+### Front-End Developer | React · JavaScript · TypeScript
 
 📍 Bandar Lampung, Indonesia 🇮🇩
 
