@@ -29,7 +29,7 @@ I'm currently looking for opportunities to contribute to real-world projects, co
 ## 👨‍💻 About Me
 
 - 💻 Focused on front-end development and modern web technologies.
-- 🎓 Studying Information Systems at Universitas Terbuka.
+- 🎓 Studying Information Systems at Indonesian open university
 - 🛠️ Building projects that combine responsive design, interactivity, and practical functionality.
 - ⚛️ Working with React, JavaScript, TypeScript, and Tailwind CSS.
 - 📈 Continuously improving my problem-solving skills, code quality, and understanding of web development.
