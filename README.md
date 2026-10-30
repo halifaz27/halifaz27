@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Halief Azis Setiawan (Dimas) 👋</h1>
-  <h3>Junior Front-End Developer · Indonesia</h3>
+  <h3>Front-End Developer · Indonesia🇮🇩</h3>
   <p>
     I'm an early-career Front-End Developer from Indonesia, building responsive and user-friendly web interfaces with HTML, CSS, JavaScript, React, and Tailwind CSS.
   </p>
