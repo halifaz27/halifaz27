@@ -1,152 +1,310 @@
 <!--
-  HALIEF AZIS SETIAWAN (DIMAS)
+  DIGITAL CRAFTSMAN
   GitHub Profile README
-  Design identity: DIGITAL CRAFTSMAN — Engineering Interfaces with Purpose.
---><h1 align="center">HALIEF AZIS SETIAWAN <sup>(DIMAS)</sup></h1><p align="center">
-  <strong>FRONT-END DEVELOPER</strong> &nbsp;·&nbsp; REACT &nbsp;·&nbsp; JAVASCRIPT &nbsp;·&nbsp; TYPESCRIPT <sub>(LEARNING)</sub>
-  <br />
-  <sub>Bandar Lampung, Indonesia 🇮🇩</sub>
-</p><p align="center">
-  <img src="https://img.shields.io/badge/DIGITAL_CRAFTSMAN-Engineering_Interfaces_with_Purpose-7C3AED?style=for-the-badge&amp;labelColor=111827" alt="Digital Craftsman — Engineering Interfaces with Purpose" />
-</p><p align="center">
-  <em>Thoughtful interfaces. Practical engineering. Continuous improvement.</em>
-</p><p align="center">
-  <a href="https://github.com/halifaz27"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub profile" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/halief-azis-setiawan-b4b573395/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile" /></a>
-  &nbsp;
-  <a href="mailto:halifazissetiawan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Send email" /></a>
-</p>01 / THE PERSON BEHIND THE INTERFACE
-I'm an early-career Front-End Developer and an Information Systems student at Universitas Terbuka. I enjoy turning ideas into responsive web interfaces and practical applications that are clear, useful, and pleasant to use.
+  Halief Azis Setiawan (Dimas)
+--><div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,45:312E81,100:7C3AED&amp;height=220&amp;section=header&amp;text=HALIEF%20AZIS%20SETIAWAN&amp;fontSize=34&amp;fontColor=F8FAFC&amp;fontAlignY=38&amp;desc=DIGITAL%20CRAFTSMAN%20%7C%20FRONT-END%20DEVELOPER&amp;descSize=14&amp;descAlignY=58"
+    width="100%"
+    alt="Halief Azis Setiawan — Digital Craftsman and Front-End Developer"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2800&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Engineering+interfaces+with+purpose;Building+with+React+and+TypeScript;Turning+ideas+into+useful+experiences;Learning%2C+building%2C+evolving"
+    alt="Engineering interfaces with purpose. Building with React and TypeScript. Turning ideas into useful experiences."
+  />
 
-Most of my experience comes from hands-on projects: planning page structure, building interface components, adding interaction, connecting services, and working through bugs as they appear. I like understanding why something works—not just getting it to work once.
+  <p>
+    <strong>FRONT-END DEVELOPER</strong>
+    &nbsp;·&nbsp; React
+    &nbsp;·&nbsp; TypeScript
+    &nbsp;·&nbsp; JavaScript
+  </p>  <p>
+    <img src="https://img.shields.io/badge/LOCATION-Bandar%20Lampung%2C%20Indonesia-64748B?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Location: Bandar Lampung, Indonesia" />
+  </p>
+  <a href="https://github.com/halifaz27">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/halief-azis-setiawan-b4b573395/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:halifazissetiawan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  <a href="https://halifaz27.github.io/Portofolio-front-end/">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" />
+  </a>  
 
-I'm currently focused on strengthening my front-end foundations, building with React, and developing my TypeScript skills. I'm looking for opportunities to contribute to real products, learn from other developers, and grow within a collaborative engineering team.
-My approach: Make the interface understandable, make the code maintainable, and make each iteration better than the last.
 
-02 / THE WAY I BUILD
+  <sub>DESIGN WITH INTENTION. DEVELOP WITH CLARITY. EVOLVE WITH CURIOSITY.</sub>
+</div>01 / THE PERSON BEHIND THE PIXELS
+I’m Halief Azis Setiawan (Dimas), an early-career Front-End Developer and Information Systems student at Universitas Terbuka, Indonesia.
+
+I’m interested in the intersection of design and engineering — where thoughtful visual decisions meet practical functionality.
+
+My work focuses on building responsive web interfaces and interactive applications using React, TypeScript, JavaScript, and modern frontend tools.
+
+I enjoy understanding how things work beneath the surface, breaking down interface challenges, and finding ways to make applications more intuitive and maintainable.
+
+I approach every project as an opportunity to turn an idea into something tangible, learn through implementation, and improve the way I write code.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 — IDENTITY</sub>
+      <h3>Developer</h3>
+      Front-End Development<br />
+      React &amp; TypeScript<br />
+      Responsive Web Interfaces
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 — BACKGROUND</sub>
+      <h3>Education</h3>
+      Information Systems<br />
+      Universitas Terbuka<br />
+      Bandar Lampung, Indonesia
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 — INTERESTS</sub>
+      <h3>What I Enjoy</h3>
+      UI/UX Engineering<br />
+      Interactive Applications<br />
+      Problem-Solving
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 — DIRECTION</sub>
+      <h3>What's Ahead</h3>
+      Real-World Projects<br />
+      Engineering Collaboration<br />
+      International Remote Teams
+    </td>
+  </tr>
+</table>02 / THE WAY I BUILD
+Good interfaces aren't just made to look good. They're designed to make complex things feel simple.
+
+My development philosophy revolves around three principles:
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>01 — DESIGN</strong>
+      <sub>01 / DESIGN</sub>
+      <h3>Clarity first.</h3>
+      Create interfaces that feel intuitive, accessible, responsive, and visually consistent.
       <br /><br />
-      Shape interfaces around people. Prioritize clarity, responsive layouts, accessibility, and visual consistency.
+      <strong>Focus</strong><br />
+      <sub>Visual hierarchy · UX · Responsive design</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>02 — DEVELOP</strong>
+      <sub>02 / DEVELOP</sub>
+      <h3>Build with purpose.</h3>
+      Turn ideas into functional applications through structured code and reusable components.
       <br /><br />
-      Turn ideas into working experiences with structured code, reusable components, and practical implementation.
+      <strong>Focus</strong><br />
+      <sub>React · Components · Application logic</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>03 — EVOLVE</strong>
+      <sub>03 / EVOLVE</sub>
+      <h3>Never stay static.</h3>
+      Experiment, solve problems, learn from feedback, and continuously refine the result.
       <br /><br />
-      Test assumptions, investigate problems, use feedback, and refine the solution through steady iteration.
+      <strong>Focus</strong><br />
+      <sub>Debugging · Learning · Code quality</sub>
     </td>
   </tr>
-</table>03 / TECHNOLOGY & TOOLS
-I choose tools based on the problem I'm building for. The stack below reflects technologies I've used in projects and areas I'm actively developing—not a claim of equal proficiency in everything.
-Front-end
+</table>03 / MY TECHNOLOGY TOOLKIT
+A collection of technologies and tools I use across my development projects.
+Front-End Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts&amp;theme=dark" alt="HTML5, CSS3, JavaScript, React, Tailwind CSS, and TypeScript" />
-</p>Technology	Current use / focus
-HTML5 & CSS3	Semantic page structure, styling, and responsive layouts
-JavaScript	DOM interaction, application logic, and browser-based functionality
-React	Component-based interfaces and interactive application views
-Tailwind CSS	Utility-first styling and responsive UI development
-TypeScript	Currently learning: types, safer data structures, and typed React code
-
-
-Tools & development environment
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=222222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+</p>Development Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,wordpress&amp;theme=dark" alt="Git, GitHub, Vite, Visual Studio Code, and WordPress" />
-</p>Additional technologies used in projects
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" />
+</p>Additional Technologies
 <p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Recharts-8884D8?style=flat-square" alt="Recharts" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Recharts-8884D8?style=flat-square&amp;logo=react&amp;logoColor=white" alt="Recharts" />
   <img src="https://img.shields.io/badge/Lucide_React-F56565?style=flat-square" alt="Lucide React" />
-</p>04 / SELECTED WORK
-A selection of projects where I've put my front-end skills into practice. Each one represents a different opportunity to plan an interface, implement features, and learn through building.
+</p>Practical Engineering Areas
+Area	Application
+Interface Development	Semantic markup, responsive layouts, and reusable UI
+Application Logic	JavaScript, TypeScript, and interactive functionality
+Component Architecture	React components, hooks, and UI state
+Styling	Tailwind CSS and responsive design
+Authentication	Supabase email/password and Google OAuth
+Data Visualization	Recharts and dashboard interfaces
+Development Workflow	Git, GitHub, and Vite
+
+
+04 / SELECTED WORK
+A closer look at the applications and interfaces I've built through hands-on development.
 01 — TRAVEL WEBSITE
-A destination-focused website built around a responsive browsing experience.
+<sub>WEB DEVELOPMENT / HTML · CSS · JAVASCRIPT</sub>
 
-A travel-themed website that presents destinations through structured page sections and an engaging interface.
-- Built responsive layouts for different screen sizes.
-- Organized destination-focused content into clear sections.
-- Added interactive elements with JavaScript.
-- Practiced combining visual presentation with practical functionality.
-HTML5 CSS3 JavaScript
+Exploring destinations through a responsive web experience.
+
+A travel-themed website designed to present destinations through engaging visual content and structured page layouts.
+
+Implementation highlights
+- Responsive page layouts for different screen sizes.
+- Destination-focused content organization.
+- Interactive elements powered by JavaScript.
+- Practical application of core HTML, CSS, and JavaScript fundamentals.
 <p>
-  <a href="https://github.com/halifaz27/TRAVEL-WEBSITE"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Travel Website source code" /></a>
-</p>
-<sub>Source code only — a live demo is currently unavailable.</sub>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=222222" alt="JavaScript" />
+</p><a href="https://github.com/halifaz27/TRAVEL-WEBSITE">
+  <img src="https://img.shields.io/badge/EXPLORE_SOURCE_CODE-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Travel Website source code" />
+</a><sub>Live preview is currently unavailable. Source code is provided for review.</sub>
 02 — ADMIN DASHBOARD
-Turning structured data into a clear, interactive dashboard interface.
+<sub>DATA INTERFACE / REACT · RECHARTS · TAILWIND CSS</sub>
 
-A React-based analytics dashboard designed to demonstrate organized data presentation, reusable UI, and chart-based visualizations.
-- Built reusable React components and dashboard sections.
-- Created a responsive layout with dashboard navigation.
-- Added interactive charts with Recharts.
-- Included a dark-mode interface and sample advertising metrics.
-React Tailwind CSS Vite Recharts Lucide React
+Turning data into meaningful visual interfaces.
+
+A React-based analytics dashboard that demonstrates how structured data can be presented through an organized and interactive user interface.
+
+Implementation highlights
+- Reusable React components.
+- Responsive analytics dashboard layout.
+- Interactive charts and data visualizations using Recharts.
+- Dashboard navigation and dark mode.
+- Sample advertising metrics for an analytics-style experience.
+Data transparency: All advertising metrics shown in the demo are sample data. They are not connected to a live Meta Ads account.
 <p>
-  <a href="https://halifaz27.github.io/admin-dashboard/"><img src="https://img.shields.io/badge/OPEN_LIVE_APPLICATION-06B6D4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Open Admin Dashboard live application" /></a>
-  &nbsp;
-  <a href="https://github.com/halifaz27/admin-dashboard"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Admin Dashboard source code" /></a>
-</p>Data note: Advertising metrics in this dashboard are sample data for demonstration. They are not live data from a Meta Ads account.
-
-03 — NEXUS LMS
-A structured interface for a digital learning experience.
-
-A Learning Management System project built around a learning-platform interface, with authentication integrated through Supabase.
-- Developed the application interface with React.
-- Integrated Supabase authentication.
-- Implemented email-and-password sign-in.
-- Integrated Google OAuth authentication.
-- Built responsive layouts for the learning platform.
-React Tailwind CSS Vite Supabase
-<p>
-  <a href="https://halifaz27.github.io/Nexus-LMS/"><img src="https://img.shields.io/badge/OPEN_LIVE_APPLICATION-06B6D4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Open Nexus LMS live application" /></a>
-  &nbsp;
-  <a href="https://github.com/halifaz27/Nexus-LMS"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Nexus LMS source code" /></a>
-</p>05 / EXPLORE MY PORTFOLIO
-The portfolio brings my background, technical skills, and selected projects together in one place.
-<p align="center">
-  <a href="https://halifaz27.github.io/Portofolio-front-end/">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore my front-end developer portfolio" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Recharts-8884D8?style=flat-square&amp;logo=react&amp;logoColor=white" alt="Recharts" />
+  <img src="https://img.shields.io/badge/Lucide_React-F56565?style=flat-square" alt="Lucide React" />
+</p><p>
+  <a href="https://halifaz27.github.io/admin-dashboard/">
+    <img src="https://img.shields.io/badge/VIEW_LIVE_APPLICATION-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="View Admin Dashboard live application" />
   </a>
-</p>06 / BEYOND THE CODE
-The way I approach development is shaped as much by how I learn as by the tools I use.
-- Curiosity: I look for the reasoning behind a feature or bug instead of stopping at a copied solution.
-- Problem-solving: I break unfamiliar problems into smaller steps, inspect what is happening, and test possible fixes.
-- Learning by building: I retain concepts best when I apply them in a project and see how the pieces work together.
-- Iteration: I treat feedback and mistakes as useful signals for improving the next version.
-- Collaboration: I value clear communication, thoughtful code reviews, and the opportunity to learn from a team.
-07 / WHAT I'M WORKING ON NEXT
-My current development priorities are to:
-- Strengthen JavaScript fundamentals and problem-solving.
-- Build confidence with TypeScript and typed React patterns.
-- Improve React component design and application structure.
-- Understand state management, accessibility, and front-end performance.
-- Practice debugging, coding assessments, and technical interviews.
-- Keep improving professional English and technical communication.
-I want to become a dependable front-end developer who can take a feature from an idea to a clear, maintainable user experience.
-08 / OPEN TO OPPORTUNITIES
-I'm interested in connecting with developers and teams working on useful products. I'm currently open to:
-<p align="center">
-  <img src="https://img.shields.io/badge/JUNIOR_FRONT--END_ROLES-7C3AED?style=flat-square" alt="Open to junior front-end roles" />
-  <img src="https://img.shields.io/badge/FRONT--END_INTERNSHIPS-64748B?style=flat-square" alt="Open to front-end internships" />
-  <img src="https://img.shields.io/badge/REMOTE_OPPORTUNITIES-0891B2?style=flat-square" alt="Open to remote opportunities" />
-</p>
-I'm especially interested in opportunities where I can contribute, learn from an engineering team, and grow through real product work.
-09 / LET'S CONNECT
-<p align="center">
-  <a href="https://github.com/halifaz27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/halief-azis-setiawan-b4b573395/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:halifazissetiawan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-</p><p align="center">
-  <strong>Build with intent. Learn through making. Improve with every iteration.</strong>
+  <a href="https://github.com/halifaz27/admin-dashboard">
+    <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Admin Dashboard source code" />
+  </a>
+</p>03 — NEXUS LMS
+<sub>APPLICATION DEVELOPMENT / REACT · SUPABASE</sub>
+
+Building a foundation for digital learning.
+
+A Learning Management System application designed around a structured digital learning experience, combining a React interface with authentication services.
+
+Implementation highlights
+- React-based application interface.
+- Supabase authentication integration.
+- Email and password authentication.
+- Google OAuth sign-in.
+- Responsive layouts for a learning platform experience.
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
+</p><p>
+  <a href="https://halifaz27.github.io/Nexus-LMS/">
+    <img src="https://img.shields.io/badge/VIEW_LIVE_APPLICATION-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="View Nexus LMS live application" />
+  </a>
+  <a href="https://github.com/halifaz27/Nexus-LMS">
+    <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Nexus LMS source code" />
+  </a>
+</p>05 / BEYOND THE CODE
+The way I approach development matters just as much as the technologies I use.
+Principle	How it shapes my work
+Curiosity	I explore how technologies work instead of relying only on copied solutions.
+Analytical thinking	I break complex challenges into smaller problems that are easier to understand.
+Practical experimentation	I learn by building, testing, debugging, and refining real implementations.
+Continuous improvement	I look for better ways to structure code and improve user experience.
+Collaboration	I value feedback, knowledge-sharing, and learning from different perspectives.
+
+
+I don't expect to know everything. I focus on understanding what I'm building, recognizing what I can improve, and being willing to learn along the way.
+06 / THE NEXT ITERATION
+I'm continuously strengthening the fundamentals that help turn independent projects into more maintainable applications.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>ENGINEERING</sub>
+      <h3>Technical Growth</h3>
+      <ul>
+        <li>JavaScript fundamentals and problem-solving.</li>
+        <li>TypeScript and type-safe development.</li>
+        <li>React architecture, hooks, and state management.</li>
+        <li>Reusable components and application structure.</li>
+        <li>Accessibility and frontend performance.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <sub>PROFESSIONAL DEVELOPMENT</sub>
+      <h3>Career Growth</h3>
+      <ul>
+        <li>Debugging and coding assessments.</li>
+        <li>Technical interview preparation.</li>
+        <li>Professional English communication.</li>
+        <li>Collaborative development workflows.</li>
+        <li>Understanding real-world engineering practices.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+Long-term direction: Become a dependable Front-End Developer who can translate product ideas into reliable, accessible, and user-friendly applications.
+07 / BEYOND THIS PROFILE
+My portfolio is where the projects come together.
+
+Explore my work, technical background, and selected frontend applications in one place.
+<div align="center">
   <br />
-  <sub>Thanks for stopping by — feel free to explore the projects and reach out.</sub>
-</p>
+  <a href="https://halifaz27.github.io/Portofolio-front-end/">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore my personal portfolio" />
+  </a>
+  <br /><br />
+  <sub>PROJECTS · SKILLS · DEVELOPMENT JOURNEY</sub>
+</div>08 / OPEN TO OPPORTUNITIES
+I'm looking for opportunities to move beyond independent project work and contribute to real-world products alongside other developers.
+
+I'm particularly interested in:
+- Junior Front-End Developer positions.
+- Front-End Developer internships.
+- Remote development opportunities.
+- International and distributed engineering teams.
+I'm excited to contribute, learn from experienced engineers, receive meaningful feedback, and grow through practical development challenges.
+09 / LET'S CONNECT
+Have an interesting project, an opportunity, or a development idea worth discussing?
+
+I'd be glad to connect.
+<div align="center">
+  <a href="mailto:halifazissetiawan@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Dimas" />
+  </a>
+  <a href="https://www.linkedin.com/in/halief-azis-setiawan-b4b573395/">
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://github.com/halifaz27">
+    <img src="https://img.shields.io/badge/EXPLORE_GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore GitHub" />
+  </a>  
+
+
+  <sub>BASED IN BANDAR LAMPUNG, INDONESIA 🇮🇩 · OPEN TO GLOBAL COLLABORATION</sub>
+  
+
+
+  <strong>HALIEF AZIS SETIAWAN · DIMAS</strong>
+
+  <sub>“Every interface is an opportunity to make technology feel more human.”</sub>
+  
+
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,50:312E81,100:0F172A&amp;height=110&amp;section=footer"
+    width="100%"
+    alt="Violet and midnight blue closing design"
+  />
+</div>
