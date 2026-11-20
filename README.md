@@ -1,16 +1,16 @@
 # Hey, I'm Halief Azis Setiawan (Dimas) 👋
 
-### Front-End Developer | React · JavaScript · TypeScript
+### Front-End Developer | React · TypeScript · JavaScript
 
 📍 Bandar Lampung, Indonesia 🇮🇩
 
-I build responsive, user-friendly web interfaces with a focus on clean UI, practical functionality, and maintainable code.
+I build modern, responsive web interfaces and interactive applications with a focus on clean design, practical functionality, and maintainable code.
 
-I'm an early-career Front-End Developer and an Information Systems student at Universitas Terbuka. I enjoy turning ideas into functional web experiences, exploring modern frontend technologies, and continuously improving my development skills through hands-on projects.
+I'm an early-career Front-End Developer and an Information Systems student at **Universitas Terbuka**. I enjoy transforming ideas into functional digital experiences, solving UI challenges, and exploring technologies that help create better web applications.
 
-I'm currently looking for opportunities to contribute to real-world projects, collaborate with development teams, and grow as a Front-End Developer, particularly in remote and international environments.
+Through hands-on projects, I've gained practical experience with React, TypeScript, JavaScript, Tailwind CSS, and modern frontend development tools. I'm continuously working to strengthen my engineering skills and build applications that are both useful and intuitive.
 
-**My focus:** Building useful products, writing better code, and improving every day.
+I'm currently open to **Junior Front-End Developer roles, internships, and remote opportunities**, particularly with teams building products for an international audience.
 
 <p align="left">
   <a href="https://github.com/halifaz27">
@@ -28,15 +28,15 @@ I'm currently looking for opportunities to contribute to real-world projects, co
 
 ## 👨‍💻 About Me
 
-- 💻 Focused on front-end development and modern web technologies.
-- 🎓 Studying Information Systems at Indonesian open university
-- 🛠️ Building projects that combine responsive design, interactivity, and practical functionality.
-- ⚛️ Working with React, JavaScript, TypeScript, and Tailwind CSS.
-- 📈 Continuously improving my problem-solving skills, code quality, and understanding of web development.
-- 🌍 Open to junior developer, internship, and remote opportunities.
-- 🎯 Long-term goal: Grow into a well-rounded software developer who builds products that solve real problems.
+- 💻 Focused on building responsive and interactive web applications.
+- ⚛️ Developing user interfaces with React and TypeScript.
+- 🎨 Creating clean, consistent layouts with HTML, CSS, and Tailwind CSS.
+- 🔧 Familiar with modern development tools, including Vite, Git, and GitHub.
+- 📊 Exploring data visualization and practical application development.
+- 🎓 Studying Information Systems at Universitas Terbuka.
+- 🌍 Interested in remote collaboration and international development teams.
 
-I believe that becoming a better developer comes from consistent practice, curiosity, and the willingness to learn from mistakes.
+I believe strong development skills come from building consistently, understanding the fundamentals, and being willing to learn from challenges and feedback.
 
 ---
 
@@ -45,45 +45,45 @@ I believe that becoming a better developer comes from consistent practice, curio
 ### Front-End Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, and Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS"/>
 </p>
 
 ### Tools & Development Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,wordpress&theme=dark" alt="Git, GitHub, Vite, Visual Studio Code, and WordPress"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,wordpress&theme=dark" alt="Git, GitHub, Vite, Visual Studio Code, WordPress"/>
 </p>
 
-### Core Technologies
+### Technical Skills
 
-| Technology | Focus |
+| Technology | Practical Application |
 |---|---|
-| HTML5 | Semantic markup and accessible page structure |
-| CSS3 | Layouts, responsive design, and styling |
-| JavaScript | DOM manipulation, interactivity, and application logic |
-| TypeScript | Type safety and more structured JavaScript development |
-| React | Component-based UI development and reusable components |
-| Tailwind CSS | Utility-first styling and responsive interfaces |
-| Git & GitHub | Version control, repositories, and project collaboration |
-| Vite | Frontend development and production builds |
+| HTML5 | Semantic markup and structured web pages |
+| CSS3 | Responsive layouts, styling, and UI consistency |
+| JavaScript | Application logic, DOM manipulation, and interactivity |
+| TypeScript | Type-safe development and structured application code |
+| React | Component-based architecture, reusable components, and UI state |
+| Tailwind CSS | Utility-first styling and responsive interface development |
+| Vite | Frontend development environment and production builds |
+| Git & GitHub | Version control, source code management, and collaboration |
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are three projects that represent my hands-on experience building web interfaces and applications.
+These projects demonstrate my practical experience building websites, interactive interfaces, and React applications.
 
 ### 01. Travel Website
 
-A travel-themed website designed to present destinations through an engaging and responsive interface.
+A responsive travel-themed website showcasing destinations through a visually engaging interface.
 
-**Highlights**
-- Responsive page layouts.
-- Structured content and destination-focused presentation.
+**Key Features**
+- Responsive layouts for different screen sizes.
+- Destination-focused content and page structure.
 - Interactive elements powered by JavaScript.
-- A practical exercise in combining HTML, CSS, and JavaScript into a complete website.
+- Clean presentation designed around a travel experience.
 
-**Built with:** HTML · CSS · JavaScript
+**Technologies:** HTML · CSS · JavaScript
 
 🌐 [Live Demo](https://halifaz27.github.io/TRAVEL-WEBSITE/) · 💻 [Source Code](https://github.com/halifaz27/TRAVEL-WEBSITE)
 
@@ -91,18 +91,18 @@ A travel-themed website designed to present destinations through an engaging and
 
 ### 02. Admin Dashboard
 
-A React-based dashboard featuring an analytics-style interface, data visualisations, and a structured application layout.
+A React-based analytics dashboard featuring data visualization, reusable components, and an organized application interface.
 
-**Highlights**
+**Key Features**
 - Reusable React components.
 - Responsive dashboard layout.
-- Charts and data visualisations.
-- Dark mode and dashboard navigation.
+- Interactive charts and data visualizations with Recharts.
+- Dashboard navigation and dark mode.
 - Sample advertising metrics for demonstrating an analytics interface.
 
-**Built with:** React · Tailwind CSS · Vite · Recharts · Lucide
+**Technologies:** React · TypeScript · Tailwind CSS · Vite · Recharts · Lucide React
 
-**Data transparency:** The advertising metrics displayed in the demo are sample data and do not represent live Meta Ads account data.
+**Data Transparency:** All advertising metrics displayed in the demo are sample data. They do not represent live data from a Meta Ads account.
 
 🌐 [Live Demo](https://halifaz27.github.io/admin-dashboard/) · 💻 [Source Code](https://github.com/halifaz27/admin-dashboard)
 
@@ -110,66 +110,67 @@ A React-based dashboard featuring an analytics-style interface, data visualisati
 
 ### 03. Nexus LMS
 
-A Learning Management System (LMS) project built around a structured digital learning experience.
+A Learning Management System (LMS) application designed around a structured digital learning experience.
 
-**Highlights**
+**Key Features**
 - React-based application interface.
-- Authentication with Supabase.
+- User authentication with Supabase.
 - Google OAuth sign-in integration.
 - Email and password authentication.
-- Responsive layouts designed for a learning-platform experience.
+- Responsive layouts for a learning-platform experience.
 
-**Built with:** React · Tailwind CSS · Vite · Supabase
+**Technologies:** React · TypeScript · Tailwind CSS · Vite · Supabase
 
 🌐 [Live Demo](https://halifaz27.github.io/Nexus-LMS/) · 💻 [Source Code](https://github.com/halifaz27/Nexus-LMS)
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Personal Portfolio
 
-Want to see my work in one place?
+Explore my portfolio to see more about my background, technical skills, and development projects.
 
 ### [Explore My Portfolio →](https://halifaz27.github.io/Portofolio-front-end/)
 
-Visit my portfolio to explore my projects, development skills, and front-end work.
+---
+
+## 📚 Current Learning & Development
+
+I'm continuously improving the skills needed to contribute effectively to professional software development teams.
+
+My current priorities include:
+
+- Strengthening JavaScript fundamentals and problem-solving.
+- Writing cleaner and more maintainable TypeScript.
+- Improving React architecture, hooks, and state management.
+- Building responsive interfaces with attention to user experience.
+- Understanding performance, accessibility, and frontend best practices.
+- Practicing Git workflows and collaborative development.
+- Improving technical communication and English for international teams.
+- Preparing for coding assessments and technical interviews.
+
+My learning approach is simple: **build, experiment, understand, and improve.**
 
 ---
 
-## 📚 Currently Improving
+## 🎯 What I'm Looking For
 
-I'm focused on strengthening the fundamentals that matter in professional front-end development.
+I'm interested in opportunities where I can contribute to real-world products, learn from experienced developers, and grow through meaningful engineering challenges.
 
-- JavaScript fundamentals and problem-solving.
-- TypeScript and type-safe development.
-- React components, hooks, and application structure.
-- Responsive design and user experience.
-- Git workflows and collaborative development.
-- Technical communication and English for international teams.
-- Coding assessments and technical interview preparation.
+I'm particularly interested in:
 
-My approach is to learn by building, test my understanding through practice, and improve through feedback.
+- Developing and maintaining modern web applications.
+- Translating UI designs into responsive, functional interfaces.
+- Building reusable components and improving code quality.
+- Collaborating through code reviews and shared development workflows.
+- Learning from distributed teams and contributing to international projects.
 
----
-
-## 🎯 Career Goals
-
-I'm working toward becoming a dependable Front-End Developer who can contribute to real products and collaborate effectively with other developers.
-
-I'm particularly interested in opportunities that allow me to:
-
-- Build and maintain modern web applications.
-- Turn UI designs into responsive, functional interfaces.
-- Learn from experienced engineers and code reviews.
-- Improve application usability, performance, and maintainability.
-- Collaborate with distributed teams across different countries.
-
-I'm open to suitable junior-level roles, internships, and remote opportunities where I can contribute while continuing to grow.
+**Currently open to:** Junior Front-End Developer positions · Internships · Remote Opportunities
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always happy to connect with fellow developers, learn from the community, and explore opportunities to build something meaningful.
+I'm always interested in connecting with developers, exchanging knowledge, and exploring opportunities to build useful digital products.
 
 <p align="left">
   <a href="https://github.com/halifaz27">
@@ -186,5 +187,5 @@ I'm always happy to connect with fellow developers, learn from the community, an
 ---
 
 <p align="center">
-  <i>Build consistently. Learn continuously. Improve every day.</i>
+  <i>Build with purpose. Learn with curiosity. Improve with consistency.</i>
 </p>
